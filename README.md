@@ -1,2 +1,2 @@
 # githubm
-github repositorija bandymas 1
+github repositorija bandymas 1 2
